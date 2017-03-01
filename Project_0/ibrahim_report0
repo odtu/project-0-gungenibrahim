@@ -1,0 +1,9 @@
+//current,tork okuma çözülecek
+
+**Motor Features**
+gerçek motor bulup detaylandır
+
+**Source and control system**
+  -> controlled voltege source(arastır-detaylandır)
+  -> pid cortoller 
+      pid can arranged with tuned application
