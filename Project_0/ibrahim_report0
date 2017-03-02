@@ -1,9 +1,18 @@
-//current,tork okuma çözülecek
-
 **Motor Features**
-gerçek motor bulup detaylandır
+ I have chosen a motor which model is namiki sbl22-37 brushless dc motor.
+ Nominal voltage:24V
+ Output power:4.4W
+ No-load speed:4685rpm
+ Rotor inertia:3.31g*cm^2
+ Coil inductance:2.4mH
+ Efficiency:%51
+ Back-emf constant:4.7mV/rpm
+ Torque constant:44.1mNm/A
+ Speed range:1300-10000rpm
+ 
 
 **Source and control system**
   -> controlled voltege source(arastır-detaylandır)
+  -> Sensors(simulink motion sensor, ampermeter, voltmeter) 
   -> pid cortoller 
       pid can arranged with tuned application
